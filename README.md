@@ -4,8 +4,8 @@ A production-ready, real-time multiplayer Tic-Tac-Toe game with server-authorita
 
 ## Live Demo
 
-- **Game URL**: _[to be updated after deployment]_
-- **Nakama Server**: _[to be updated after deployment]_
+- **Game URL**: _[Please go through with the local deployment steps to run it]_
+- **Nakama Server**: _[Same as above]_
 
 ## Architecture & Design Decisions
 
