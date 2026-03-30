@@ -1,0 +1,13 @@
+{
+  "name": "nakama-tic-tac-toe-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc -w"
+  },
+  "devDependencies": {
+    "nakama-common": "github:heroiclabs/nakama-common",
+    "typescript": "^5.3.0"
+  }
+}

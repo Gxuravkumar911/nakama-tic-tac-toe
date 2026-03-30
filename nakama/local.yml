@@ -1,0 +1,8 @@
+logger:
+  level: "DEBUG"
+
+session:
+  token_expiry_sec: 7200
+
+runtime:
+  js_entrypoint: "build/index.js"
